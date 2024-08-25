@@ -2,6 +2,6 @@
 Forwardport
 
 ```
-curl -o install.sh -L https://raw.githubusercontent.com/mahdigholipour3/Forwardport/main/install.sh && bash install.sh
+curl -o install.sh -L https://raw.githubusercontent.com/mahdiMGF2/Forwardport/main/install.sh && bash install.sh
 
 ```
